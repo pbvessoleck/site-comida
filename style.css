@@ -1,0 +1,15 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+header{
+    background-color: black;
+}
+
+body{
+    background-color: rgb(255, 198, 13);
+    background-size: cover;
+    background-image: url(./img/mancha-laranja-de-tinta-aquosa-com-gradiente-castanho-amarelo-fundo-abstrato-papel-parede-bela-textura-do-manchas-em-185465203\ 1.svg);
+}
